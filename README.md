@@ -1,0 +1,1 @@
+Clone simples de SpaceInvaders em Java, para projeto de POO da matéria SCC0504-Programação Orientada a Objetos. Para usar, clone o repositório na maneira que preferir, e importe o projeto para sua IDE (a que utilizei foi Eclipse, provavelmente terá passos extra para utilizar outra). Então, é só rodar e aproveitar!
